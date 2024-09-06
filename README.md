@@ -1,4 +1,12 @@
-# DevJujuri
+<br clear="both">
+
+<h2 align="center">ABOUT ME</h2>
+
+###
+
+<p align="center">Hi My Name Is MrJujuri! I'm a passionate front-end and back-end developer with skills in HTML, CSS, Lua, MySQL, and JavaScript For FiveM Server With Multiple Framework.</p>
+
+###
 
 ## 🧰 Languages and Tools:
 <p align="center">
