@@ -38,6 +38,6 @@
 </p>
 <h2 align="center">📊 STATS</h2>
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=MrJujuri&show_icons=true&theme=radical" alt="GitHub Stats" /> 
+  <img src="[https://github-readme-stats.vercel.app/api?username=MrJujuri&show_icons=true&theme=radical](https://github-readme-stats-fast.vercel.app/api?username=MrJujuri&show_icons=true&theme=radical)" alt="GitHub Stats" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrJujuri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Top Languages" /> 
 </div>
