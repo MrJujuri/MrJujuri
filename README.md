@@ -39,5 +39,5 @@
 <h2 align="center">📊 STATS</h2>
 <div align="center"> 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MrJujuri&show_icons=true&theme=radical" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MrJujuri&layout=donut&theme=radical" height="150" alt="Top Languages" /> 
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MrJujuri&layout=donut&theme=radical" height="250" alt="Top Languages" /> 
 </div>
